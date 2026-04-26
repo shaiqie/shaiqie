@@ -117,8 +117,8 @@ I am a tech enthusiast interested in **low-level programming**, **software engin
 
 ## Connect
 
-<a href="https://mqverick.lol">
-  <img src="https://img.shields.io/badge/Website-mqverick.lol-7c3aed?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+<a href="https://amanaii.dev">
+  <img src="https://img.shields.io/badge/Website-amanaii.dev-7c3aed?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
 </a>
 
 <br/><br/>
