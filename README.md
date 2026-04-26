@@ -1,38 +1,76 @@
-## Hi there, Mqverick here! 👋
-My name is **Maverick Liemann** or so-called Mqverick. I am a tech enthusiast that has interest towards **Low-Level Programming**, **Software Engineering**, **Cyber Security**, and **OS Development**
+<div align="center">
+
+# Hi, I'm Amanaii 👋
+
+### Low-Level Programming • Software Engineering • Cyber Security • OS Development
+
+![Profile Views](https://komarev.com/ghpvc/?username=amanaii&style=for-the-badge&color=7c3aed)
+![GitHub Followers](https://img.shields.io/github/followers/amanaii?style=for-the-badge&color=7c3aed)
+![GitHub Stars](https://img.shields.io/github/stars/amanaii?style=for-the-badge&color=7c3aed)
+
+</div>
 
 ---
 
-### 🛠️ Skills & Tools
-I've learned some languages and used decent tools. Here are the languages and tools i've learned:
+## About Me
 
-#### 📖 Languages:
-- Python (for **Machine Learning** and **Cyber Security**)
-- C (for **Low-Level Programming** and **OS Development**)
-- C++ (for **Learning Purposes** and **Game Development**)
-- Rust (for **Software Engineering**, **App Development** and **Backend Development**)
-- Go (mainly used for **Backend Development**)
-- Java (for **Minecraft-Related** things such as: **Plugin Development** and **Server Development**)
-- Kotlin (for **App Development** and **Plugin Development**)
+I'm **Maverick Liemann**, also known as **Amanaii**.
 
-#### 🛠️ Tools:
-- Visual Studio Code (for **Programming** purposes)
-- Neovim (for **Programming** purposes)
-- Obsidian (for **Task Management**)
+I am a tech enthusiast interested in **low-level programming**, **software engineering**, **cyber security**, and **operating system development**. I enjoy learning how things work beneath the surface, building practical tools, experimenting with systems, and exploring software from both engineering and security perspectives.
 
 ---
 
-### 🖥️ Gadget:
-- Laptop: **Lenovo Thinkpad T460P**
-  - OS: **Arch Linux** (I use Arch BTW)
-  - RAM: **16GB DDR4 SODIMM**
-  - SSD: **256GB SATA**
-- Phone: **Poco M5**
-  - OS: **Pixel OS** (AOSP-based)
-  - RAM: 4GB
- 
+## Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,rust,go,java,kotlin,js" />
+</p>
+
+| Language | Focus |
+|---|---|
+| **Python** | Machine Learning, Cyber Security, Automation |
+| **C** | Low-Level Programming, OS Development |
+| **C++** | Learning, Game Development, Systems Programming |
+| **Rust** | Software Engineering, App Development, Backend Development |
+| **Go** | Backend Development, CLI Tools, Services |
+| **Java** | Minecraft Plugin Development, Server Development |
+| **Kotlin** | App Development, Plugin Development |
+| **JavaScript** | Web Development, Tooling |
+
 ---
 
-### 👤 More Info
-You can find more information about me below:
-- [Website](https://mqverick.lol)
+## Tools & Environment
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,neovim,linux,arch,git,github,bash" />
+</p>
+
+| Tool | Usage |
+|---|---|
+| **Visual Studio Code** | General development |
+| **Neovim** | Fast editing and terminal-based development |
+| **Obsidian** | Notes, planning, and task management |
+| **Git & GitHub** | Version control and project hosting |
+| **Linux** | Daily development environment |
+
+---
+
+## Devices
+
+### Laptop
+
+```yaml
+Device: Lenovo ThinkPad T460p
+OS: Arch Linux
+RAM: 16GB DDR4 SODIMM
+Storage: 256GB SATA SSD
+```
+
+### Phone
+```yaml
+Device: POCO F3 8/256
+OS: PixelOS
+ROM: AOSP-based
+```
