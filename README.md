@@ -2,8 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=220&section=header&text=Amanaii&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Low-Level%20Programming%20%7C%20Software%20Engineering%20%7C%20Cyber%20Security&descAlignY=58&descSize=16)
 
-</div>
-
 # Hi, I'm Amanaii 👋
 
 ### Low-Level Programming • Software Engineering • Cyber Security • OS Development
