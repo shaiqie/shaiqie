@@ -22,23 +22,9 @@
 
 <img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanaii&layout=compact&theme=tokyonight&hide_border=true&border_radius=16" />
 
-```yaml
-name: Maverick Liemann
-alias: Amanaii
-interests:
-  - Low-Level Programming
-  - Software Engineering
-  - Cyber Security
-  - OS Development
-  - Backend Development
-  - Minecraft Plugin Development
-currently_learning:
-  - Systems Programming
-  - App Development
-  - Security Engineering
-```
+I'm **Alhamdi Fitriansyah**, also known as **Amanaii**.
 
-I enjoy learning how software works beneath the surface, building practical tools, experimenting with systems, and exploring technology from both engineering and security perspectives.
+I am a tech enthusiast interested in **low-level programming**, **software engineering**, **cyber security**, and **operating system development**. I enjoy learning how things work beneath the surface, building practical tools, experimenting with systems, and exploring software from both engineering and security perspectives.
 
 <br clear="right"/>
 
