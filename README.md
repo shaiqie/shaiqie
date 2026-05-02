@@ -5,17 +5,15 @@ I am a systems enthusiast and developer focused on **low-level programming**, **
 <p align="left">
   <img src="https://img.shields.io/github/followers/amanaii?style=flat-square&color=7c3aed&labelColor=1a1b26&logo=github" />
   <img src="https://img.shields.io/github/stars/amanaii?style=flat-square&color=7c3aed&labelColor=1a1b26&logo=reverbnation" />
-  <img src="https://komarev.com/ghpvc/?username=amanaii&style=flat-square&color=7c3aed&label=VIEWS" />
 </p>
 
 ---
 
 ### Projects
 
-*   **Luna** – High-resolution music downloader (Flutter & Material 3).
-*   **WaveDL** – Memory-efficient terminal music downloader (Rust).
-*   **Portfolio** – High-performance personal site (Astro & Tailwind).
-*   **Carpe Diem** – Community-focused Minecraft environment management.
+*   **[Wave](https://github.com/amanaii/Wave)** – A blazingly fast, Rust-powered color palette generator that turns your wallpaper into a system-wide visual identity.
+*   **[Krate](https://github.com/amanaii/Krate)** – A lightweight, blazing-fast CLI tool to search, download, and manage Minecraft server plugins directly from your terminal. 
+*   **[OpenWhatsapp](https://github.com/amanaii/OpenWhatsapp)** – Open source, fast, lightweight and reliable WhatsApp webview client for Linux written in C.
 
 ---
 
