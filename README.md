@@ -10,12 +10,12 @@ I am a systems enthusiast and developer focused on **low-level programming**, **
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
-*   **[Luna](https://github.com/amanaii/luna)** – A high-resolution music downloader built with Flutter and Material 3 design principles.
-*   **[WaveDL](https://github.com/amanaii/wavedl)** – A memory-efficient, terminal-based music downloader written in Rust.
-*   **[Portfolio](https://github.com/amanaii/portfolio)** – A high-performance personal website built using Astro and Tailwind CSS.
-*   **[Carpe Diem Server](https://github.com/amanaii)** – Configuration and management for a community-focused Minecraft environment.
+*   **Luna** – High-resolution music downloader (Flutter & Material 3).
+*   **WaveDL** – Memory-efficient terminal music downloader (Rust).
+*   **Portfolio** – High-performance personal site (Astro & Tailwind).
+*   **Carpe Diem** – Community-focused Minecraft environment management.
 
 ---
 
@@ -35,30 +35,25 @@ I am a systems enthusiast and developer focused on **low-level programming**, **
 
 ---
 
-### 💻 Current Hardware & Setup
+### 💻 Setup
 
-| Device | Specification | Operating System |
+| Device | Specification | OS |
 | :--- | :--- | :--- |
-| **ThinkPad T460p** | i7-6820HQ / 16GB RAM | Arch Linux / CachyOS |
+| **ThinkPad T460p** | i7-6820HQ / 16GB RAM | Arch / CachyOS |
 | **POCO F3** | 8GB / 256GB | PixelOS (AOSP) |
-| **Workspace** | Neovim / Hyprland | Minimal Workflow |
+| **Workspace** | Neovim / Hyprland | Minimalist |
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Activity
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amanaii&show_icons=true&theme=tokyonight&hide_border=true&title_color=7c3aed&icon_color=7c3aed&text_color=9ca3af&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanaii&layout=compact&theme=tokyonight&hide_border=true&title_color=7c3aed&text_color=9ca3af&bg_color=0d1117" />
-  
-  <br/>
-  
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amanaii&theme=tokyo-night&hide_border=true&area=true&color=7c3aed&bg_color=0d1117" />
 </div>
 
 ---
 
-### 🔗 Contact & Presence
+### 🔗 Connect
 
 - **Website:** [amanaii.dev](https://amanaii.dev)
 - **Email:** [hello@amanaii.dev](mailto:hello@amanaii.dev)
