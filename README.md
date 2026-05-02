@@ -1,113 +1,45 @@
-
 <div align="center">
 
-# Hi, I'm Amanaii 👋
-<img src="https://komarev.com/ghpvc/?username=amanaii&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/amanaii?style=for-the-badge&color=7c3aed&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/amanaii?style=for-the-badge&color=7c3aed&label=STARS" />
-</div>
-I'm **Alhamdi Fitriansyah**, also known as **Amanaii**.
+# Alhamdi Fitriansyah
 
-I am a tech enthusiast interested in **low-level programming**, **software engineering**, **cyber security**, and **operating system development**. I enjoy learning how things work beneath the surface, building practical tools, experimenting with systems, and exploring software from both engineering and security perspectives.
+**`alhamdi · amanaii`**
 
-<br clear="right"/>
+Tech enthusiast focused on low-level programming, software engineering, cybersecurity, and OS development.
 
-<div align="center">
-## Tech Stack
+<br/>
+
+[![Website](https://img.shields.io/badge/amanaii.dev-7c3aed?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://amanaii.dev)
+![Profile Views](https://komarev.com/ghpvc/?username=amanaii&style=flat-square&color=7c3aed&label=views)
 
 </div>
 
-<div align="center">
+---
 
 ### Languages
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,rust,go,java,kotlin,js&theme=dark" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Python-Machine%20Learning%20%26%20Cyber%20Security-7c3aed?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-Low--Level%20Programming-7c3aed?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-Game%20Development-7c3aed?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-Software%20Engineering-7c3aed?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-Backend%20Development-7c3aed?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-Minecraft%20Development-7c3aed?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-App%20Development-7c3aed?style=for-the-badge&logo=kotlin&logoColor=white" />
-
-<br/><br/>
-
 ### Tools
 
 <img src="https://skillicons.dev/icons?i=vscode,neovim,linux,arch,git,github,bash&theme=dark" />
 
-<br/><br/>
+---
 
-<img src="https://img.shields.io/badge/VS%20Code-General%20Development-7c3aed?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Neovim-Terminal%20Editing-7c3aed?style=for-the-badge&logo=neovim&logoColor=white" />
-<img src="https://img.shields.io/badge/Obsidian-Notes%20%26%20Planning-7c3aed?style=for-the-badge&logo=obsidian&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-Version%20Control-7c3aed?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-Daily%20Environment-7c3aed?style=for-the-badge&logo=linux&logoColor=white" />
-
-</div>
-
-<br/>
+### Stats
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a855f7&height=2&section=header" />
-
-## Devices
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Lenovo%20ThinkPad%20T460p-Arch%20Linux-7c3aed?style=for-the-badge&logo=archlinux&logoColor=white" />
-<img src="https://img.shields.io/badge/RAM-16GB%20DDR4-9333ea?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Storage-256GB%20SATA%20SSD-a855f7?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/POCO%20F3-8GB%20%2F%20256GB-7c3aed?style=for-the-badge&logo=xiaomi&logoColor=white" />
-<img src="https://img.shields.io/badge/ROM-PixelOS-9333ea?style=for-the-badge&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Base-AOSP--based-a855f7?style=for-the-badge" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amanaii&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=amanaii&theme=tokyonight&hide_border=true&border_radius=12" />
 
 </div>
 
-<br/>
+---
 
-<div align="center">
+### Setup
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a855f7&height=2&section=header" />
-
-## GitHub Stats
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amanaii&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=amanaii&theme=tokyonight&hide_border=true&border_radius=16" />
-
-<br/><br/>
-
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=amanaii&theme=tokyo-night&hide_border=true&radius=16&area=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a855f7&height=2&section=header" />
-
-## Connect
-
-<a href="https://amanaii.dev">
-  <img src="https://img.shields.io/badge/Website-amanaii.dev-7c3aed?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:a855f7&height=120&section=footer" />
-
-</div>
+| | |
+|---|---|
+| **Machine** | Lenovo ThinkPad T460p · 16GB DDR4 · 256GB SSD |
+| **OS** | Arch Linux |
+| **Phone** | POCO F3 · PixelOS |
