@@ -22,7 +22,7 @@ I am a systems enthusiast and developer focused on **low-level programming**, **
 ### 🛠️ Technical Stack
 
 **Languages**  
-`C` `C++` `Rust` `Go` `Python` `Dart` `Kotlin`
+`C` `C++` `Rust` `Go` `Python` `Dart` `Kotlin` `Java` `Javascript`
 
 **Tools & Environment**  
 `Linux (Arch/CachyOS)` `Hyprland` `Neovim` `Git` `VS Code` `Flutter`
@@ -30,7 +30,7 @@ I am a systems enthusiast and developer focused on **low-level programming**, **
 <br/>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,py,dart,kotlin,linux,neovim,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,go,py,dart,kotlin,java,js,linux,neovim,git&theme=dark" />
 </div>
 
 ---
