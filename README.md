@@ -44,7 +44,7 @@ const ME: Developer = Developer {
 |---------|------|-------------|
 | [**Wave**](https://github.com/shaiqie/Wave) | `Rust` | Color palette generator that turns your wallpaper into a system-wide visual identity |
 | [**Krate**](https://github.com/shaiqie/Krate) | `Rust` | CLI tool to search, download, and manage Minecraft server plugins from your terminal |
-| [**OpenWhatsapp**](https://github.com/shaiqie/OpenWhatsapp) | `C` | Open source, lightweight WhatsApp webview client for Linux |
+| [**OpenWhatsapp**](https://github.com/shaiqie/OpenWhatsapp) | `Rust` | A native Linux desktop client for WhatsApp Web, built with Rust, GTK4, and WebKitGTK. |
 
 ---
 
