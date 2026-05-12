@@ -1,99 +1,53 @@
+## Hi, I'm Alhamdi Fitriansyah
 
+I'm a systems enthusiast and developer with a focus on **low-level programming**, **operating system internals**, and **security**. I enjoy building efficient tools and exploring the architecture of software from the kernel up — from userspace all the way down.
 
-<h1 align="center">👋 Hi, I'm Alhamdi Fitriansyah</h1>
+I work primarily in [`C`](https://en.wikipedia.org/wiki/C_(programming_language)), [`Rust`](https://www.rust-lang.org/), and [`Go`](https://go.dev/), and I've built several projects including [Wave](https://github.com/shaiqie/Wave), a Rust-powered color palette generator that turns your wallpaper into a system-wide visual identity, [Krate](https://github.com/shaiqie/Krate), a CLI tool for managing Minecraft server plugins from your terminal, and [OpenWhatsapp](https://github.com/shaiqie/OpenWhatsapp), a fast, lightweight WhatsApp webview client for Linux written in C.
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Systems+%26+Low-Level+Developer;OS+Internals+Enthusiast;Security+Focused+Builder;From+the+kernel+up." alt="Typing SVG" />
-  </a>
+Outside of my own projects I enjoy tinkering with OS internals, writing tooling that makes the developer experience faster and leaner, and exploring security research. My daily environment is [Arch Linux (CachyOS)](https://cachyos.org/) with [Hyprland](https://hyprland.org/) and [Neovim](https://neovim.io/).
+
+You can find me at [shaiqie.dev](https://shaiqie.dev) or reach me by email at [hello@shaiqie.dev](mailto:hello@shaiqie.dev).
+
+---
+
+### Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00c9a7?style=flat-square&logo=c&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/C++-00c9a7?style=flat-square&logo=cplusplus&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Rust-00c9a7?style=flat-square&logo=rust&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Go-00c9a7?style=flat-square&logo=go&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Python-00c9a7?style=flat-square&logo=python&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Kotlin-00c9a7?style=flat-square&logo=kotlin&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Java-00c9a7?style=flat-square&logo=coffeescript&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/JavaScript-00c9a7?style=flat-square&logo=javascript&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Dart-00c9a7?style=flat-square&logo=dart&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Linux-00c9a7?style=flat-square&logo=linux&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Neovim-00c9a7?style=flat-square&logo=neovim&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Git-00c9a7?style=flat-square&logo=git&logoColor=0d1117" />
+  <img src="https://img.shields.io/badge/Flutter-00c9a7?style=flat-square&logo=flutter&logoColor=0d1117" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/shaiqie?style=flat-square&color=00c9a7&labelColor=0d1117&logo=github&label=Followers" />
-  <img src="https://img.shields.io/github/stars/shaiqie?style=flat-square&color=00c9a7&labelColor=0d1117&logo=reverbnation&label=Stars" />
-  <img src="https://komarev.com/ghpvc/?username=shaiqie&style=flat-square&color=00c9a7&labelColor=0d1117&label=Profile+Views" />
-</p>
+---
+
+### Projects
+
+- **[Wave](https://github.com/shaiqie/Wave)** — A Rust-powered color palette generator that turns your wallpaper into a system-wide visual identity.
+- **[Krate](https://github.com/shaiqie/Krate)** — A lightweight CLI tool to search, download, and manage Minecraft server plugins directly from your terminal.
+- **[OpenWhatsapp](https://github.com/shaiqie/OpenWhatsapp)** — An open source, fast, and lightweight WhatsApp webview client for Linux written in C.
 
 ---
 
-### 🧠 About Me
-
-```rust
-struct Developer {
-    name:     &'static str,
-    focus:    Vec<&'static str>,
-    os:       &'static str,
-    editor:   &'static str,
-    motto:    &'static str,
-}
-
-const ME: Developer = Developer {
-    name:     "Alhamdi Fitriansyah",
-    focus:    vec!["Low-level programming", "OS internals", "Security"],
-    os:       "Arch Linux (CachyOS) + Hyprland",
-    editor:   "Neovim",
-    motto:    "Explore the architecture of software from the kernel up.",
-};
-```
-
----
-
-### 🚀 Projects
-
-| Project | Tech | Description |
-|---------|------|-------------|
-| [**Wave**](https://github.com/shaiqie/Wave) | `Rust` | Color palette generator that turns your wallpaper into a system-wide visual identity |
-| [**Krate**](https://github.com/shaiqie/Krate) | `Rust` | CLI tool to search, download, and manage Minecraft server plugins from your terminal |
-| [**OpenWhatsapp**](https://github.com/shaiqie/OpenWhatsapp) | `Rust` | A native Linux desktop client for WhatsApp Web, built with Rust, GTK4, and WebKitGTK. |
-
----
-
-### 🛠️ Technical Stack
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,go,py,dart,kotlin,java,js&theme=dark" />
-
-**Tools & Environment**
-
-<img src="https://skillicons.dev/icons?i=linux,neovim,git,vscode,flutter&theme=dark" />
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shaiqie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&icon_color=00c9a7&text_color=c9d1d9&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaiqie&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c9a7&text_color=c9d1d9&langs_count=6" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=shaiqie&theme=tokyonight&hide_border=true&background=0d1117&stroke=00c9a7&ring=00c9a7&fire=ff6b6b&currStreakLabel=00c9a7" />
-</div>
-
----
-
-### 📈 Activity
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaiqie&theme=tokyo-night&hide_border=true&area=true&color=00c9a7&line=00c9a7&point=ffffff&bg_color=0d1117" />
-</div>
-
----
-
-### 🤝 Connect
+### Connect
 
 <p align="left">
   <a href="https://shaiqie.dev">
-    <img src="https://img.shields.io/badge/Website-shaiqie.dev-00c9a7?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Website-shaiqie.dev-00c9a7?style=flat-square&logo=firefox&logoColor=white&labelColor=0d1117" />
   </a>
   <a href="mailto:hello@shaiqie.dev">
-    <img src="https://img.shields.io/badge/Email-hello@shaiqie.dev-00c9a7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/Email-hello@shaiqie.dev-00c9a7?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://github.com/shaiqie">
+    <img src="https://img.shields.io/github/followers/shaiqie?style=flat-square&color=00c9a7&labelColor=0d1117&logo=github&label=Follow" />
   </a>
 </p>
-
-<br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0d1117" />
-</div>
